@@ -41,7 +41,7 @@ def get_numberPackets(csv_payload):
 	
 	return number_packets
 
-
+# function to get use a desired sequence from the downloaded data
 def select_desired_sequence(csv_payload, loramote_target, gateway_target) :
 
 	number_packets = get_numberPackets(csv_payload)
@@ -105,7 +105,7 @@ def select_desired_sequence(csv_payload, loramote_target, gateway_target) :
 		print '\t\tStartLine: \t' + str(detected_seq[i][3])
 		print '\t\tEndLine: \t' + str(detected_seq[i][4])
 
-	selection = raw_input('\n\tSelectionez la sequence a traiter : ')
+	selection = raw_input('\n\tSelectionez la sequence a traiter, 0 pour sortir : ')
 
 	
 	# Write the data into a .csv file
@@ -113,9 +113,12 @@ def select_desired_sequence(csv_payload, loramote_target, gateway_target) :
 		writer = csv.writer(f)
 		writer.writerows(detected_seq)
 
-	return  detected_seq[int(selection)]
+	if int(selection) == 0 :
+		return ['0','0','0','0','0']
+	else :
+		return  detected_seq[int(selection)]
 
-
+# Function to generate a unique csv file with all the collected data
 def results_csv_generator(first_line, last_line, number_packets, csv_payload, csv_performance, loramote_target, gateway_target) :
 
 	results_size = last_line - first_line + 1
@@ -175,6 +178,7 @@ def results_csv_generator(first_line, last_line, number_packets, csv_payload, cs
 
 	return results
 
+# Function to create a kml file
 def kml_generator(results_input, number_rows_input, kml_icon, loramote_target, gateway_target):
 
 	name_input = 'Testdrive_LoRaMote_' + loramote_target + '_gateway_' + gateway_target
@@ -209,7 +213,7 @@ def kml_generator(results_input, number_rows_input, kml_icon, loramote_target, g
 	if kml_icon == 1 :
 		tmp += '			<href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>' # Donut
 	elif kml_icon == 2 :
-		tmp += '			<href>http://maps.google.com/mapfiles/kml/shapes/forbidden.png</href>' # Forbidden
+		tmp += '			<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>' # Triangle
 	elif kml_icon == 3 :
 		tmp += '			<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>' # Diamond
 	elif kml_icon == 4 :
@@ -219,7 +223,7 @@ def kml_generator(results_input, number_rows_input, kml_icon, loramote_target, g
 	elif kml_icon == 6 :
 		tmp += '			<href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>' # Start
 	elif kml_icon == 7 :
-		tmp += '			<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>' # Triangle
+		tmp += '			<href>http://maps.google.com/mapfiles/kml/shapes/forbidden.png</href>' # FOrbidden
 
 	tmp += '		</Icon>'
 	tmp += '		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>'
@@ -326,6 +330,7 @@ def kml_generator(results_input, number_rows_input, kml_icon, loramote_target, g
 
 	return 
 
+# Main function
 def loramote_do_all(mote, gateway_target, number_packets, kml_icon):
 
 	loramote_target = '00-00-00-00-' + mote
@@ -336,7 +341,7 @@ def loramote_do_all(mote, gateway_target, number_packets, kml_icon):
 
 	# URL link for the performance packets
 	url_performance = 'http://iot.semtech.com/raw/motes/' + loramote_target + '/performance/?count=' + str(number_packets) + '&gateway=' + gateway_target + '&submit=Download'
-	csv_performance = 'loramote_' + loramote_target + '_gateway_'  +  gateway_target + ' _performance.csv'
+	csv_performance = 'loramote_' + loramote_target + '_gateway_'  +  gateway_target + '_performance.csv'
 	 
 
 	
@@ -362,6 +367,10 @@ def loramote_do_all(mote, gateway_target, number_packets, kml_icon):
 	first_line =  int(selection[4])
 	total_packets = last_line - first_line + 1
 
+	# We finish the program if the user selected '0'
+	if (last_line == 0) and (first_line == 0) :
+		print '-----------------------------------------------------------\n\n'
+		return
 
 	results = results_csv_generator(first_line, last_line, number_packets, csv_payload, csv_performance, loramote_target, gateway_target)
 	
@@ -372,6 +381,7 @@ def loramote_do_all(mote, gateway_target, number_packets, kml_icon):
 
 ####################################################################################################
 ####################################################################################################
+# We read the inserted arguments and the we call the main function
 if __name__ == "__main__":
     mote = str(sys.argv[1])
     gateway_target = str(sys.argv[2])
