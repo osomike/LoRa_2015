@@ -1,0 +1,5 @@
+<kml>
+ <Document>
+  <name>Testdrive_LoRaMote_00-00-00-00-00-30-35-83_gateway_AA-55-5A-00-08-05-03-5D</name>
+<Style id="pin_style">	<IconStyle>    <color>64147882</color>		<scale>1.0</scale>		<Icon>			<href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>		</Icon>		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>	</IconStyle>	<ListStyle>	</ListStyle></Style><StyleMap id="Sheet1Map2">	<Pair>		<key>normal</key>		<styleUrl>#NormalSheet1Map2</styleUrl>	</Pair>	<Pair>		<key>highlight</key>		<styleUrl>#HighlightSheet1Map2</styleUrl>	</Pair></StyleMap><Style id="NormalSheet1Map2">	<IconStyle>		<Icon>		</Icon>	</IconStyle>	<BalloonStyle>		<text>$[description]</text>	</BalloonStyle>	<LineStyle>		<color>ffffff00</color>		<width>2</width>	</LineStyle>	<PolyStyle>		<color>00ffff00</color>		<fill>0</fill>	</PolyStyle></Style><Style id="HighlightSheet1Map2">	<IconStyle>		<Icon>		</Icon>	</IconStyle>	<BalloonStyle>		<text>$[description]</text>	</BalloonStyle>	<LineStyle>		<color>ffffff00</color>		<width>3</width>	</LineStyle>	<PolyStyle>		<color>70ffff00</color>		<fill>0</fill>	</PolyStyle></Style> </Document>
+</kml>

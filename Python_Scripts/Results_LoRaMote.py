@@ -204,7 +204,13 @@ def kml_generator(results_input, number_rows_input, kml_icon, loramote_target, g
 	elif kml_icon == 6 :
 		tmp += '    <color>641478ff</color>' # orange
 	elif kml_icon == 7 :
-		tmp += '    <color>64f00014</color>' # blue
+		tmp += '    <color>646e78f0</color>' # pink light
+	elif kml_icon == 8 :
+		tmp += '    <color>64147882</color>' # brown
+	elif kml_icon == 9 :
+		tmp += '    <color>64788c14</color>' # petrol
+	elif kml_icon == 10 :
+		tmp += '    <color>6478fff0</color>' # pale yellow
 
 	tmp += '		<scale>1.0</scale>'
 	tmp += '		<Icon>'
@@ -223,6 +229,12 @@ def kml_generator(results_input, number_rows_input, kml_icon, loramote_target, g
 	elif kml_icon == 6 :
 		tmp += '			<href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>' # Start
 	elif kml_icon == 7 :
+		tmp += '			<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>' # Target
+	elif kml_icon == 8 :
+		tmp += '			<href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>' # Road shield 3
+	elif kml_icon == 9 :
+		tmp += '			<href>http://maps.google.com/mapfiles/kml/shapes/road_shield2.png</href>' # Road shield 2 
+	elif kml_icon == 10 :
 		tmp += '			<href>http://maps.google.com/mapfiles/kml/shapes/forbidden.png</href>' # FOrbidden
 
 	tmp += '		</Icon>'

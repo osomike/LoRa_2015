@@ -1,0 +1,5 @@
+Sequence,Date - Time,Frequency [MHz],Channel,Modulation,Bandwidth [KHz],SF,Coding rate,ADR,RSSI [dBm],SNR [dB],Port,Payload ,Led 3 status,Athmospheric pressure,Temperature,Altitude (Pressure based),Battery status,Latitude,Longitude,Altitude
+8,2015-06-26 13:58:14,867.7,6,LoRa,125,SF12,4/5,on,-122,-13,2,0026cc0bab035f37000000000000ffff,00,26cc,0bab,035f,21.65 %,0.0,0.0,ffff
+2,2015-06-26 13:49:09,867.1,3,LoRa,125,SF12,4/5,on,-122,-17.2,2,0026cb0bb1036437000000000000ffff,00,26cb,0bb1,0364,21.65 %,0.0,0.0,ffff
+2,2015-06-26 13:41:55,867.1,3,LoRa,125,SF12,4/5,on,-124,-14.2,2,0026cc0bb8036137000000000000ffff,00,26cc,0bb8,0361,21.65 %,0.0,0.0,ffff
+1,2015-06-26 13:35:11,867.1,3,LoRa,125,SF12,4/5,on,-121,-17.8,2,0026ce0bb1036637000000000000ffff,00,26ce,0bb1,0366,21.65 %,0.0,0.0,ffff
