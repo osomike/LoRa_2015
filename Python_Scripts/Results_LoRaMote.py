@@ -53,6 +53,7 @@ def select_desired_sequence(csv_payload, loramote_target, gateway_target) :
 
 	seq_counter = 1
 	row_counter = 0
+	margin = 0 # Sometimes the packet 'n+1' arrives before the packet 'n' this is a margin to solve that problem
 
 	file_loaded = open(csv_payload)
 	file_read 	= csv.reader(file_loaded)	
@@ -60,7 +61,7 @@ def select_desired_sequence(csv_payload, loramote_target, gateway_target) :
 	for row in file_read :
 		data[row_counter] = row 
 
-		if (row_counter > 1) and (int(data[row_counter][2]) > (int(data[row_counter-1][2]))) :
+		if (row_counter > 1) and (int(data[row_counter][2]) > (int(data[row_counter-1][2]))+margin) :
 	
 			if seq_counter == 1 : # Start Time
 				end_row = 2
@@ -106,6 +107,7 @@ def select_desired_sequence(csv_payload, loramote_target, gateway_target) :
 
 	selection = raw_input('\n\tSelectionez la sequence a traiter : ')
 
+	
 	# Write the data into a .csv file
 	with open('loramote_' + loramote_target + '_gateway_' + gateway_target + '_sequenceDetection.csv','wb') as f:
 		writer = csv.writer(f)

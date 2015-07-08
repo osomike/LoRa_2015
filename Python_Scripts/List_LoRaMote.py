@@ -23,8 +23,8 @@ number_packets_4 = raw_input('Donnez le nombre de paquets a recuperer pour\n\t G
 
 #os.system('python TEST\LoRaMote_results.py '+ mote + ' ' + gateway_target_1 + ' ' + str(number_packets_1) + ' ' + str(1))
 
-os.system('python TEST\LoRaMote_results.py '+ mote + ' ' + gateway_target_1 + ' ' + number_packets_1 + ' ' + str(1))
-os.system('python TEST\LoRaMote_results.py '+ mote + ' ' + gateway_target_2 + ' ' + number_packets_2 + ' ' + str(2))
-os.system('python TEST\LoRaMote_results.py '+ mote + ' ' + gateway_target_3 + ' ' + number_packets_3 + ' ' + str(3))
-os.system('python TEST\LoRaMote_results.py '+ mote + ' ' + gateway_target_4 + ' ' + number_packets_4 + ' ' + str(4))
+os.system('python Results_LoRaMote.py '+ mote + ' ' + gateway_target_1 + ' ' + number_packets_1 + ' ' + str(1))
+os.system('python Results_LoRaMote.py '+ mote + ' ' + gateway_target_2 + ' ' + number_packets_2 + ' ' + str(2))
+os.system('python Results_LoRaMote.py '+ mote + ' ' + gateway_target_3 + ' ' + number_packets_3 + ' ' + str(3))
+os.system('python Results_LoRaMote.py '+ mote + ' ' + gateway_target_4 + ' ' + number_packets_4 + ' ' + str(4))
 
