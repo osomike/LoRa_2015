@@ -1,0 +1,1880 @@
+<kml>
+ <Document>
+  <name>Testdrive_LoRaMote_00-00-00-00-00-C3-E6-8D_gateway_FF-AA-00-11-FF-EE-12-34</name>
+<Style id="pin_style">	<IconStyle>    <color>64f0ff14</color>		<scale>1.0</scale>		<Icon>			<href>http://maps.google.com/mapfiles/kml/shapes/square.png</href>		</Icon>		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>	</IconStyle>	<ListStyle>	</ListStyle></Style><StyleMap id="Sheet1Map2">	<Pair>		<key>normal</key>		<styleUrl>#NormalSheet1Map2</styleUrl>	</Pair>	<Pair>		<key>highlight</key>		<styleUrl>#HighlightSheet1Map2</styleUrl>	</Pair></StyleMap><Style id="NormalSheet1Map2">	<IconStyle>		<Icon>		</Icon>	</IconStyle>	<BalloonStyle>		<text>$[description]</text>	</BalloonStyle>	<LineStyle>		<color>ffffff00</color>		<width>2</width>	</LineStyle>	<PolyStyle>		<color>00ffff00</color>		<fill>0</fill>	</PolyStyle></Style><Style id="HighlightSheet1Map2">	<IconStyle>		<Icon>		</Icon>	</IconStyle>	<BalloonStyle>		<text>$[description]</text>	</BalloonStyle>	<LineStyle>		<color>ffffff00</color>		<width>3</width>	</LineStyle>	<PolyStyle>		<color>70ffff00</color>		<fill>0</fill>	</PolyStyle></Style>   <Placemark>
+    <name>P_1563</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>1563</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:22:26</td>
+      <tr><td>Freq</td><td>868.75 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF11</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-124 [dBm]</td>
+      <tr><td>SNR</td><td>-15.2 [dB]</td>
+      <tr><td>Battery</td><td>63.39 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.6219107654,45.2948445433</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_1563</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.6219107654,45.2948445433 5.62206096912,45.2833432297		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_1499</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>1499</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:21:28</td>
+      <tr><td>Freq</td><td>867.25 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF12</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-122 [dBm]</td>
+      <tr><td>SNR</td><td>-12 [dB]</td>
+      <tr><td>Battery</td><td>64.57 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.62206096912,45.2833432297</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_1499</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.62206096912,45.2833432297 5.62257595331,45.2804786301		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_1471</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>1471</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:21:02</td>
+      <tr><td>Freq</td><td>868.6 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF12</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-121 [dBm]</td>
+      <tr><td>SNR</td><td>-12.2 [dB]</td>
+      <tr><td>Battery</td><td>64.96 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.62257595331,45.2804786301</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_1471</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.62257595331,45.2804786301 5.63813276745,45.2594071936		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_1339</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>1339</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:19:04</td>
+      <tr><td>Freq</td><td>868.6 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF11</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-122 [dBm]</td>
+      <tr><td>SNR</td><td>-14.2 [dB]</td>
+      <tr><td>Battery</td><td>65.35 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.63813276745,45.2594071936</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_1339</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.63813276745,45.2594071936 5.64060040004,45.257926614		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_1331</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>1331</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:18:56</td>
+      <tr><td>Freq</td><td>867.1 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF12</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-122 [dBm]</td>
+      <tr><td>SNR</td><td>-13.2 [dB]</td>
+      <tr><td>Battery</td><td>66.54 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.64060040004,45.257926614</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_1331</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.64060040004,45.257926614 5.643175321,45.2564674922		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_1325</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>1325</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:18:51</td>
+      <tr><td>Freq</td><td>869.4 [MHz]</td>
+      <tr><td>Channel</td><td>0</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF11</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-121 [dBm]</td>
+      <tr><td>SNR</td><td>-14.2 [dB]</td>
+      <tr><td>Battery</td><td>64.96 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.643175321,45.2564674922</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_1325</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.643175321,45.2564674922 5.65448351556,45.2481848297		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_1261</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>1261</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:17:53</td>
+      <tr><td>Freq</td><td>867.9 [MHz]</td>
+      <tr><td>Channel</td><td>0</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF12</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-119 [dBm]</td>
+      <tr><td>SNR</td><td>-7.2 [dB]</td>
+      <tr><td>Battery</td><td>67.72 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.65448351556,45.2481848297</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_1261</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.65448351556,45.2481848297 5.6569940635,45.2444833809		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_1241</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>1241</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:17:35</td>
+      <tr><td>Freq</td><td>868.75 [MHz]</td>
+      <tr><td>Channel</td><td>0</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF11</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-120 [dBm]</td>
+      <tr><td>SNR</td><td>-11.5 [dB]</td>
+      <tr><td>Battery</td><td>66.93 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.6569940635,45.2444833809</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_1241</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.6569940635,45.2444833809 5.65853901607,45.2424127152		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_1233</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>1233</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:17:28</td>
+      <tr><td>Freq</td><td>869.4 [MHz]</td>
+      <tr><td>Channel</td><td>0</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF12</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-121 [dBm]</td>
+      <tr><td>SNR</td><td>-10.2 [dB]</td>
+      <tr><td>Battery</td><td>67.32 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.65853901607,45.2424127152</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_1233</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.65853901607,45.2424127152 5.66089936029,45.2386576222		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_1213</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>1213</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:17:10</td>
+      <tr><td>Freq</td><td>867.5 [MHz]</td>
+      <tr><td>Channel</td><td>0</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF11</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-121 [dBm]</td>
+      <tr><td>SNR</td><td>-9 [dB]</td>
+      <tr><td>Battery</td><td>66.93 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.66089936029,45.2386576222</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_1213</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.66089936029,45.2386576222 5.66089936029,45.2386576222		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_1207</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>1207</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:17:04</td>
+      <tr><td>Freq</td><td>867.5 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF10</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-122 [dBm]</td>
+      <tr><td>SNR</td><td>-5.8 [dB]</td>
+      <tr><td>Battery</td><td>66.93 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.66089936029,45.2386576222</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_1207</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.66089936029,45.2386576222 5.66278763566,45.2350741905		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_1189</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>1189</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:16:47</td>
+      <tr><td>Freq</td><td>867.9 [MHz]</td>
+      <tr><td>Channel</td><td>0</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF7</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-119 [dBm]</td>
+      <tr><td>SNR</td><td>-5 [dB]</td>
+      <tr><td>Battery</td><td>67.72 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.66278763566,45.2350741905</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_1189</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.66278763566,45.2350741905 5.66278763566,45.2350741905		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_1185</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>1185</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:16:45</td>
+      <tr><td>Freq</td><td>868.75 [MHz]</td>
+      <tr><td>Channel</td><td>0</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF11</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-119 [dBm]</td>
+      <tr><td>SNR</td><td>-6.2 [dB]</td>
+      <tr><td>Battery</td><td>67.72 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.66278763566,45.2350741905</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_1185</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.66278763566,45.2350741905 5.66686459385,45.2284544979		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_1149</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>1149</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:16:12</td>
+      <tr><td>Freq</td><td>869.4 [MHz]</td>
+      <tr><td>Channel</td><td>0</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF12</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-121 [dBm]</td>
+      <tr><td>SNR</td><td>-8.8 [dB]</td>
+      <tr><td>Battery</td><td>68.11 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.66686459385,45.2284544979</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_1149</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.66686459385,45.2284544979 5.66686459385,45.2284544979		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_1139</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>1139</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:16:02</td>
+      <tr><td>Freq</td><td>867.1 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF8</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-119 [dBm]</td>
+      <tr><td>SNR</td><td>-0.5 [dB]</td>
+      <tr><td>Battery</td><td>68.5 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.66686459385,45.2284544979</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_1139</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.66686459385,45.2284544979 5.66926785341,45.2251929313		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_1121</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>1121</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:15:46</td>
+      <tr><td>Freq</td><td>867.9 [MHz]</td>
+      <tr><td>Channel</td><td>0</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF12</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-120 [dBm]</td>
+      <tr><td>SNR</td><td>-3.5 [dB]</td>
+      <tr><td>Battery</td><td>68.5 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.66926785341,45.2251929313</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_1121</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.66926785341,45.2251929313 5.67362376137,45.2201396489		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_1087</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>1087</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:15:16</td>
+      <tr><td>Freq</td><td>867.9 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF11</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-120 [dBm]</td>
+      <tr><td>SNR</td><td>-3.2 [dB]</td>
+      <tr><td>Battery</td><td>68.5 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.67362376137,45.2201396489</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_1087</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.67362376137,45.2201396489 5.67572661349,45.2187234424		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_1075</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>1075</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:15:05</td>
+      <tr><td>Freq</td><td>867.5 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF9</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-120 [dBm]</td>
+      <tr><td>SNR</td><td>-5.8 [dB]</td>
+      <tr><td>Battery</td><td>68.5 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.67572661349,45.2187234424</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_1075</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.67572661349,45.2187234424 5.6780869577,45.2174896261		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_1061</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>1061</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:14:52</td>
+      <tr><td>Freq</td><td>867.5 [MHz]</td>
+      <tr><td>Channel</td><td>0</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF9</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-116 [dBm]</td>
+      <tr><td>SNR</td><td>4.5 [dB]</td>
+      <tr><td>Battery</td><td>68.5 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.6780869577,45.2174896261</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_1061</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.6780869577,45.2174896261 5.68072625169,45.2162128945		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_1059</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>1059</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:14:51</td>
+      <tr><td>Freq</td><td>869.4 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF11</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-113 [dBm]</td>
+      <tr><td>SNR</td><td>-1 [dB]</td>
+      <tr><td>Battery</td><td>68.11 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.68072625169,45.2162128945</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_1059</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.68072625169,45.2162128945 5.68280764613,45.2144962805		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_1045</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>1045</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:14:38</td>
+      <tr><td>Freq</td><td>867.1 [MHz]</td>
+      <tr><td>Channel</td><td>0</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF11</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-118 [dBm]</td>
+      <tr><td>SNR</td><td>-2 [dB]</td>
+      <tr><td>Battery</td><td>69.29 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.68280764613,45.2144962805</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_1045</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.68280764613,45.2144962805 5.68394490289,45.2123612419		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_1031</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>1031</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:14:26</td>
+      <tr><td>Freq</td><td>867.9 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF11</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-112 [dBm]</td>
+      <tr><td>SNR</td><td>3 [dB]</td>
+      <tr><td>Battery</td><td>69.29 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.68394490289,45.2123612419</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_1031</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.68394490289,45.2123612419 5.69042512064,45.205623532		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_995</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>995</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:13:53</td>
+      <tr><td>Freq</td><td>867.1 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF12</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-122 [dBm]</td>
+      <tr><td>SNR</td><td>3 [dB]</td>
+      <tr><td>Battery</td><td>69.69 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.69042512064,45.205623532</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_995</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.69042512064,45.205623532 5.69042512064,45.205623532		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_983</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>983</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:13:42</td>
+      <tr><td>Freq</td><td>867.5 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF10</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-101 [dBm]</td>
+      <tr><td>SNR</td><td>5.5 [dB]</td>
+      <tr><td>Battery</td><td>68.9 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.69042512064,45.205623532</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_983</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.69042512064,45.205623532 5.69242068439,45.2042609697		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_975</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>975</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:13:35</td>
+      <tr><td>Freq</td><td>868.75 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF11</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-103 [dBm]</td>
+      <tr><td>SNR</td><td>5.8 [dB]</td>
+      <tr><td>Battery</td><td>69.69 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.69242068439,45.2042609697</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_975</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.69242068439,45.2042609697 5.69441624813,45.2029091362		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_969</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>969</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:13:30</td>
+      <tr><td>Freq</td><td>867.5 [MHz]</td>
+      <tr><td>Channel</td><td>0</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF10</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-107 [dBm]</td>
+      <tr><td>SNR</td><td>6.8 [dB]</td>
+      <tr><td>Battery</td><td>69.69 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.69441624813,45.2029091362</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_969</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.69441624813,45.2029091362 5.69441624813,45.2029091362		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_963</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>963</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:13:24</td>
+      <tr><td>Freq</td><td>869.25 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF9</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-110 [dBm]</td>
+      <tr><td>SNR</td><td>10.8 [dB]</td>
+      <tr><td>Battery</td><td>70.47 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.69441624813,45.2029091362</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_963</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.69441624813,45.2029091362 5.69649764258,45.2014822008		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_951</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>951</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:13:12</td>
+      <tr><td>Freq</td><td>867.75 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF7</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-99 [dBm]</td>
+      <tr><td>SNR</td><td>8.8 [dB]</td>
+      <tr><td>Battery</td><td>70.47 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.69649764258,45.2014822008</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_951</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.69649764258,45.2014822008 5.69855757935,45.2000659943		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_943</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>943</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:13:05</td>
+      <tr><td>Freq</td><td>868.75 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF8</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-102 [dBm]</td>
+      <tr><td>SNR</td><td>7.5 [dB]</td>
+      <tr><td>Battery</td><td>70.08 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.69855757935,45.2000659943</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_943</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.69855757935,45.2000659943 5.70102521193,45.1966327663		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_923</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>923</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:12:47</td>
+      <tr><td>Freq</td><td>868.6 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF7</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-89 [dBm]</td>
+      <tr><td>SNR</td><td>7.5 [dB]</td>
+      <tr><td>Battery</td><td>70.08 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.70102521193,45.1966327663</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_923</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.70102521193,45.1966327663 5.70115395798,45.1944548123		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_913</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>913</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:12:39</td>
+      <tr><td>Freq</td><td>867.5 [MHz]</td>
+      <tr><td>Channel</td><td>0</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF10</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-86 [dBm]</td>
+      <tr><td>SNR</td><td>8.5 [dB]</td>
+      <tr><td>Battery</td><td>70.47 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.70115395798,45.1944548123</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_913</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.70115395798,45.1944548123 5.70102521193,45.1922554007		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_905</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>905</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:12:32</td>
+      <tr><td>Freq</td><td>869.25 [MHz]</td>
+      <tr><td>Channel</td><td>0</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF11</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-86 [dBm]</td>
+      <tr><td>SNR</td><td>8.2 [dB]</td>
+      <tr><td>Battery</td><td>70.47 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.70102521193,45.1922554007</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_905</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.70102521193,45.1922554007 5.70091792356,45.1900989044		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_893</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>893</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:12:21</td>
+      <tr><td>Freq</td><td>867.1 [MHz]</td>
+      <tr><td>Channel</td><td>0</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF9</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-114 [dBm]</td>
+      <tr><td>SNR</td><td>9.2 [dB]</td>
+      <tr><td>Battery</td><td>70.87 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.70091792356,45.1900989044</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_893</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.70091792356,45.1900989044 5.70091792356,45.1900989044		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_891</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>891</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:12:19</td>
+      <tr><td>Freq</td><td>868.75 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF11</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-106 [dBm]</td>
+      <tr><td>SNR</td><td>8 [dB]</td>
+      <tr><td>Battery</td><td>70.47 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.70091792356,45.1900989044</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_891</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.70091792356,45.1900989044 5.70091792356,45.1900989044		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_887</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>887</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:12:15</td>
+      <tr><td>Freq</td><td>867.1 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF8</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-109 [dBm]</td>
+      <tr><td>SNR</td><td>5.8 [dB]</td>
+      <tr><td>Battery</td><td>71.26 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.70091792356,45.1900989044</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_887</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.70091792356,45.1900989044 5.70091792356,45.1900989044		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_885</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>885</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:12:14</td>
+      <tr><td>Freq</td><td>867.1 [MHz]</td>
+      <tr><td>Channel</td><td>0</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF10</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-116 [dBm]</td>
+      <tr><td>SNR</td><td>4.5 [dB]</td>
+      <tr><td>Battery</td><td>70.47 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.70091792356,45.1900989044</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_885</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.70091792356,45.1900989044 5.70111104263,45.1860970481		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_871</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>871</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:12:01</td>
+      <tr><td>Freq</td><td>868.6 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF10</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-108 [dBm]</td>
+      <tr><td>SNR</td><td>6.5 [dB]</td>
+      <tr><td>Battery</td><td>70.87 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.70111104263,45.1860970481</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_871</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.70111104263,45.1860970481 5.70160456915,45.1826316336		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_849</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>849</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:11:41</td>
+      <tr><td>Freq</td><td>868.75 [MHz]</td>
+      <tr><td>Channel</td><td>0</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF11</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-115 [dBm]</td>
+      <tr><td>SNR</td><td>1.5 [dB]</td>
+      <tr><td>Battery</td><td>70.87 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.70160456915,45.1826316336</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_849</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.70160456915,45.1826316336 5.70413657476,45.1817733266		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_787</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>787</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:10:45</td>
+      <tr><td>Freq</td><td>867.5 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF10</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-115 [dBm]</td>
+      <tr><td>SNR</td><td>5.5 [dB]</td>
+      <tr><td>Battery</td><td>72.05 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.70413657476,45.1817733266</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_787</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.70413657476,45.1817733266 5.70413657476,45.1817733266		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_779</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>779</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:10:38</td>
+      <tr><td>Freq</td><td>867.9 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF11</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-113 [dBm]</td>
+      <tr><td>SNR</td><td>3.5 [dB]</td>
+      <tr><td>Battery</td><td>71.65 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.70413657476,45.1817733266</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_779</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.70413657476,45.1817733266 5.70413657476,45.1817733266		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_765</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>765</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:10:25</td>
+      <tr><td>Freq</td><td>867.1 [MHz]</td>
+      <tr><td>Channel</td><td>0</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF11</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-116 [dBm]</td>
+      <tr><td>SNR</td><td>0 [dB]</td>
+      <tr><td>Battery</td><td>72.05 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.70413657476,45.1817733266</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_765</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.70413657476,45.1817733266 5.70413657476,45.1817733266		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_759</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>759</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:10:20</td>
+      <tr><td>Freq</td><td>868.75 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF10</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-117 [dBm]</td>
+      <tr><td>SNR</td><td>-1.8 [dB]</td>
+      <tr><td>Battery</td><td>72.05 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.70413657476,45.1817733266</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_759</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.70413657476,45.1817733266 5.70437260918,45.1817625978		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_745</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>745</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:10:07</td>
+      <tr><td>Freq</td><td>867.9 [MHz]</td>
+      <tr><td>Channel</td><td>0</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF10</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-120 [dBm]</td>
+      <tr><td>SNR</td><td>0.5 [dB]</td>
+      <tr><td>Battery</td><td>72.44 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.70437260918,45.1817625978</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_745</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.70437260918,45.1817625978 5.70437260918,45.1817625978		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_741</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>741</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:10:03</td>
+      <tr><td>Freq</td><td>867.5 [MHz]</td>
+      <tr><td>Channel</td><td>0</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF7</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-115 [dBm]</td>
+      <tr><td>SNR</td><td>0.8 [dB]</td>
+      <tr><td>Battery</td><td>72.83 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.70437260918,45.1817625978</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_741</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.70437260918,45.1817625978 5.70471593198,45.181816242		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_733</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>733</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:09:56</td>
+      <tr><td>Freq</td><td>867.9 [MHz]</td>
+      <tr><td>Channel</td><td>0</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF8</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-119 [dBm]</td>
+      <tr><td>SNR</td><td>-5 [dB]</td>
+      <tr><td>Battery</td><td>73.23 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.70471593198,45.181816242</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_733</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.70471593198,45.181816242 5.70471593198,45.181816242		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_727</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>727</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:09:50</td>
+      <tr><td>Freq</td><td>867.1 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF7</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-120 [dBm]</td>
+      <tr><td>SNR</td><td>-3.5 [dB]</td>
+      <tr><td>Battery</td><td>72.44 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.70471593198,45.181816242</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_727</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.70471593198,45.181816242 5.70471593198,45.181816242		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_725</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>725</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:09:49</td>
+      <tr><td>Freq</td><td>867.75 [MHz]</td>
+      <tr><td>Channel</td><td>0</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF9</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-121 [dBm]</td>
+      <tr><td>SNR</td><td>0.8 [dB]</td>
+      <tr><td>Battery</td><td>72.44 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.70471593198,45.181816242</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_725</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.70471593198,45.181816242 5.704780305,45.1817625978		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_715</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>715</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:09:40</td>
+      <tr><td>Freq</td><td>867.9 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF12</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-120 [dBm]</td>
+      <tr><td>SNR</td><td>-3.5 [dB]</td>
+      <tr><td>Battery</td><td>72.83 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.704780305,45.1817625978</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_715</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.704780305,45.1817625978 5.70550986594,45.1818055131		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_705</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>705</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:09:31</td>
+      <tr><td>Freq</td><td>867.5 [MHz]</td>
+      <tr><td>Channel</td><td>0</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF8</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-118 [dBm]</td>
+      <tr><td>SNR</td><td>-1.8 [dB]</td>
+      <tr><td>Battery</td><td>73.23 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.70550986594,45.1818055131</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_705</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.70550986594,45.1818055131 5.70550986594,45.1818055131		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_701</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>701</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:09:27</td>
+      <tr><td>Freq</td><td>867.9 [MHz]</td>
+      <tr><td>Channel</td><td>0</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF12</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-115 [dBm]</td>
+      <tr><td>SNR</td><td>-2.5 [dB]</td>
+      <tr><td>Battery</td><td>73.62 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.70550986594,45.1818055131</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_701</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.70550986594,45.1818055131 5.70744105666,45.1818484285		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_683</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>683</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:09:11</td>
+      <tr><td>Freq</td><td>867.5 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF9</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-122 [dBm]</td>
+      <tr><td>SNR</td><td>5.2 [dB]</td>
+      <tr><td>Battery</td><td>73.23 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.70744105666,45.1818484285</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_683</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.70744105666,45.1818484285 5.70744105666,45.1818484285		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_667</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>667</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:08:57</td>
+      <tr><td>Freq</td><td>867.9 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF11</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-120 [dBm]</td>
+      <tr><td>SNR</td><td>-2.8 [dB]</td>
+      <tr><td>Battery</td><td>73.62 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.70744105666,45.1818484285</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_667</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.70744105666,45.1818484285 5.70748397201,45.1818376996		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_659</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>659</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:08:49</td>
+      <tr><td>Freq</td><td>867.9 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF12</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-119 [dBm]</td>
+      <tr><td>SNR</td><td>-5.8 [dB]</td>
+      <tr><td>Battery</td><td>73.62 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.70748397201,45.1818376996</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_659</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.70748397201,45.1818376996 5.70748397201,45.1818376996		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_655</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>655</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:08:46</td>
+      <tr><td>Freq</td><td>867.9 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF9</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-122 [dBm]</td>
+      <tr><td>SNR</td><td>-4.5 [dB]</td>
+      <tr><td>Battery</td><td>72.83 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.70748397201,45.1818376996</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_655</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.70748397201,45.1818376996 5.7082564483,45.1818484285		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_649</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>649</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:08:40</td>
+      <tr><td>Freq</td><td>867.25 [MHz]</td>
+      <tr><td>Channel</td><td>0</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF8</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-116 [dBm]</td>
+      <tr><td>SNR</td><td>-0.2 [dB]</td>
+      <tr><td>Battery</td><td>73.62 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.7082564483,45.1818484285</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_649</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.7082564483,45.1818484285 5.7082564483,45.1818484285		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_641</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>641</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:08:33</td>
+      <tr><td>Freq</td><td>867.25 [MHz]</td>
+      <tr><td>Channel</td><td>0</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF9</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-121 [dBm]</td>
+      <tr><td>SNR</td><td>-3.8 [dB]</td>
+      <tr><td>Battery</td><td>73.23 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.7082564483,45.1818484285</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_641</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.7082564483,45.1818484285 5.70952245111,45.1818484285		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_639</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>639</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:08:32</td>
+      <tr><td>Freq</td><td>867.9 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF11</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-122 [dBm]</td>
+      <tr><td>SNR</td><td>-7 [dB]</td>
+      <tr><td>Battery</td><td>74.02 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.70952245111,45.1818484285</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_639</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.70952245111,45.1818484285 5.71072408089,45.1818484285		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_625</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>625</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:08:19</td>
+      <tr><td>Freq</td><td>867.1 [MHz]</td>
+      <tr><td>Channel</td><td>0</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF11</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-120 [dBm]</td>
+      <tr><td>SNR</td><td>-1 [dB]</td>
+      <tr><td>Battery</td><td>74.41 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.71072408089,45.1818484285</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_625</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.71072408089,45.1818484285 5.71134635345,45.181816242		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_607</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>607</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:08:02</td>
+      <tr><td>Freq</td><td>867.5 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF8</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-122 [dBm]</td>
+      <tr><td>SNR</td><td>-5 [dB]</td>
+      <tr><td>Battery</td><td>74.41 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.71134635345,45.181816242</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_607</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.71134635345,45.181816242 5.71239777951,45.1818376996		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_597</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>597</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:07:54</td>
+      <tr><td>Freq</td><td>867.1 [MHz]</td>
+      <tr><td>Channel</td><td>0</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF11</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-120 [dBm]</td>
+      <tr><td>SNR</td><td>1 [dB]</td>
+      <tr><td>Battery</td><td>74.02 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.71239777951,45.1818376996</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_597</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.71239777951,45.1818376996 5.71634599165,45.181548021		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_535</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>535</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:06:58</td>
+      <tr><td>Freq</td><td>867.9 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF10</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-121 [dBm]</td>
+      <tr><td>SNR</td><td>-9.5 [dB]</td>
+      <tr><td>Battery</td><td>74.8 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.71634599165,45.181548021</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_535</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.71634599165,45.181548021 5.7164747377,45.1813119866		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_513</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>513</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:06:38</td>
+      <tr><td>Freq</td><td>867.1 [MHz]</td>
+      <tr><td>Channel</td><td>0</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF11</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-121 [dBm]</td>
+      <tr><td>SNR</td><td>-8 [dB]</td>
+      <tr><td>Battery</td><td>75.59 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.7164747377,45.1813119866</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_513</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.7164747377,45.1813119866 5.7164747377,45.1813119866		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_509</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>509</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:06:34</td>
+      <tr><td>Freq</td><td>867.5 [MHz]</td>
+      <tr><td>Channel</td><td>0</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF8</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-122 [dBm]</td>
+      <tr><td>SNR</td><td>-7.8 [dB]</td>
+      <tr><td>Battery</td><td>75.98 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.7164747377,45.1813119866</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_509</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.7164747377,45.1813119866 5.71829864005,45.1813978173		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_475</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>475</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:06:03</td>
+      <tr><td>Freq</td><td>867.9 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF7</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-119 [dBm]</td>
+      <tr><td>SNR</td><td>-3 [dB]</td>
+      <tr><td>Battery</td><td>76.77 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.71829864005,45.1813978173</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_475</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.71829864005,45.1813978173 5.71928569308,45.181354902		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_453</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>453</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:05:43</td>
+      <tr><td>Freq</td><td>867.1 [MHz]</td>
+      <tr><td>Channel</td><td>0</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF8</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-121 [dBm]</td>
+      <tr><td>SNR</td><td>-4.2 [dB]</td>
+      <tr><td>Battery</td><td>76.77 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.71928569308,45.181354902</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_453</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.71928569308,45.181354902 5.71928569308,45.181354902		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_451</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>451</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:05:42</td>
+      <tr><td>Freq</td><td>867.5 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF10</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-124 [dBm]</td>
+      <tr><td>SNR</td><td>-11.2 [dB]</td>
+      <tr><td>Battery</td><td>76.77 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.71928569308,45.181354902</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_451</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.71928569308,45.181354902 5.71937152378,45.1812905289		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_445</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>445</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:05:36</td>
+      <tr><td>Freq</td><td>867.1 [MHz]</td>
+      <tr><td>Channel</td><td>0</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF9</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-121 [dBm]</td>
+      <tr><td>SNR</td><td>-5.8 [dB]</td>
+      <tr><td>Battery</td><td>75.98 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.71937152378,45.1812905289</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_445</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.71937152378,45.1812905289 5.71954318518,45.1812261559		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_437</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>437</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:05:29</td>
+      <tr><td>Freq</td><td>867.1 [MHz]</td>
+      <tr><td>Channel</td><td>0</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF10</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-121 [dBm]</td>
+      <tr><td>SNR</td><td>-5.2 [dB]</td>
+      <tr><td>Battery</td><td>75.98 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.71954318518,45.1812261559</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_437</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.71954318518,45.1812261559 5.71954318518,45.1812261559		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_429</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>429</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:05:22</td>
+      <tr><td>Freq</td><td>867.5 [MHz]</td>
+      <tr><td>Channel</td><td>0</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF11</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-121 [dBm]</td>
+      <tr><td>SNR</td><td>-9 [dB]</td>
+      <tr><td>Battery</td><td>76.38 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.71954318518,45.1812261559</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_429</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.71954318518,45.1812261559 5.72203227544,45.1813227154		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_415</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>415</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:05:09</td>
+      <tr><td>Freq</td><td>867.9 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF11</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-121 [dBm]</td>
+      <tr><td>SNR</td><td>-5.2 [dB]</td>
+      <tr><td>Battery</td><td>77.95 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.72203227544,45.1813227154</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_415</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.72203227544,45.1813227154 5.7246930271,45.1813227154		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_331</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>331</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:03:54</td>
+      <tr><td>Freq</td><td>867.9 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF11</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-122 [dBm]</td>
+      <tr><td>SNR</td><td>-14.5 [dB]</td>
+      <tr><td>Battery</td><td>79.13 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.7246930271,45.1813227154</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_331</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.7246930271,45.1813227154 5.72795459365,45.1828462103		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_293</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>293</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:03:18</td>
+      <tr><td>Freq</td><td>867.9 [MHz]</td>
+      <tr><td>Channel</td><td>0</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF7</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-121 [dBm]</td>
+      <tr><td>SNR</td><td>-7.2 [dB]</td>
+      <tr><td>Battery</td><td>79.13 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.72795459365,45.1828462103</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_293</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.72795459365,45.1828462103 5.73095866811,45.1843267899		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_239</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>239</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:02:30</td>
+      <tr><td>Freq</td><td>867.9 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF12</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-121 [dBm]</td>
+      <tr><td>SNR</td><td>-14.5 [dB]</td>
+      <tr><td>Battery</td><td>81.89 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.73095866811,45.1843267899</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_239</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.73095866811,45.1843267899 5.73128053323,45.1886934267		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_93</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>93</td>
+      <tr><td>Date-Time</td><td>2015-07-08 12:00:19</td>
+      <tr><td>Freq</td><td>867.1 [MHz]</td>
+      <tr><td>Channel</td><td>0</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF11</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-121 [dBm]</td>
+      <tr><td>SNR</td><td>-10.8 [dB]</td>
+      <tr><td>Battery</td><td>100.0 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.73128053323,45.1886934267</coordinates>
+    </Point>
+   </Placemark>
+<Placemark>	<name>M_93</name>	<styleUrl>#Sheet1Map2</styleUrl>	<LineString>		<tessellate>1</tessellate>		<coordinates>			5.73128053323,45.1886934267 5.73222467091,45.1894980895		</coordinates>	</LineString></Placemark>   <Placemark>
+    <name>P_67</name>
+     <description>
+      <![CDATA[
+      <table border="1" >
+
+      <tr><td>Seq</td><td>67</td>
+      <tr><td>Date-Time</td><td>2015-07-08 11:59:55</td>
+      <tr><td>Freq</td><td>867.9 [MHz]</td>
+      <tr><td>Channel</td><td>3</td>
+      <tr><td>Modulation</td><td>LoRa</td>
+      <tr><td>Bandwidth</td><td>125 [KHz]</td>
+      <tr><td>SF</td><td>SF9</td>
+      <tr><td>Coding rate</td><td>4/5</td>
+      <tr><td>ADR</td><td>on</td>
+      <tr><td>RSSI</td><td>-122 [dBm]</td>
+      <tr><td>SNR</td><td>-4.5 [dB]</td>
+      <tr><td>Battery</td><td>100.0 %</td>
+      </table>
+      ]]>
+     </description>
+    <styleUrl>#pin_style</styleUrl>    <Point>
+     <coordinates>5.73222467091,45.1894980895</coordinates>
+    </Point>
+   </Placemark>
+ </Document>
+</kml>
